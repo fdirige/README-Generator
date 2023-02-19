@@ -13,7 +13,7 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   # Table of Contents
-  [Installation] (#installation)
+  [Installation](#installation)
   [Usage](#usage)
   [License](#license)
   [Contribution](#contribution)
@@ -26,9 +26,9 @@ function generateMarkdown(data) {
   This project is licensed under the ${data.license} license. 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   # Contributing
-  ​Contributors: ${data.Contribution}
+  ​Contributors: ${data.contribution}
   # Questions
-  Github: ${data.github} Email: ${data.email}.
+  Github: [${data.github}](https://github.com/${data.github}) Email: ${data.email}.
   `
 }
 
