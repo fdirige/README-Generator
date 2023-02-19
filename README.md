@@ -1,22 +1,24 @@
 # README Generator
   ![Github license](https://img.shields.io/badge/license--blue.svg)
   ## Description
-  Adding project descrption
+  This is the Description for my project
   # Table of Contents
-  [Installation] (#installation)
-  [Usage](#usage)
-  [License](#license)
-  [Contribution](#contribution)
-  [Test Instructions](#tests)
+  <ol>
+  <li>[Installation](#installation)</li>
+  <li>[Usage](#usage)</li>
+  <li>[License](#license)</li>
+  <li>[Contribution](#contribution)</li>
+  <li>[Test Instructions](#tests)</li>
+  </ol>
   # Installation
-  adding installation instructions for my project
+  This is the installation instructions for my project
   # Usage
-  adding usage information for my project
+  test test
   # License
   This project is licensed under the  license. 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   # Contributing
-  ​Contributors: undefined
+  ​Contributors: test test
   # Questions
-  Github: This is my username Email: email@gmail.com.
+  Github: [testesttest](https://github.com/testesttest) Email: testtest@gmail.com.
   
