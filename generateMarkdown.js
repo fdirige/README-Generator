@@ -13,22 +13,22 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   # Table of Contents
-  *[Installation] (#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Contribution](#contribution)
-  *[Test Instructions](#tests)
+  [Installation] (#installation)
+  [Usage](#usage)
+  [License](#license)
+  [Contribution](#contribution)
+  [Test Instructions](#tests)
   # Installation
-  The following necessary dependencies must be installed to run the application properly: ${data.Installation}
+  ${data.installation}
   # Usage
-  In order to use this app, ${data.Usage}
+  ${data.usage}
   # License
-  This project is licensed under the ${data.License} license. 
+  This project is licensed under the ${data.license} license. 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   # Contributing
   ​Contributors: ${data.Contribution}
   # Questions
-  Github: ${data.Github} Email: ${data.Email}.
+  Github: ${data.github} Email: ${data.email}.
   `
 }
 
