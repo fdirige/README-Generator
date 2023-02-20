@@ -17,7 +17,7 @@ function generateMarkdown(data) {
   2. [Usage](#usage)
   3. [License](#license)
   4. [Contribution](#contribution)
-  5. [Test Instructions](#TestInstructions)
+  5. [Test Instructions](#Test Instructions)
   # Installation
   ${data.installation}
   # Usage
@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   # Contribution
   ${data.contribution}
   # Test Instructions
-  ${data.tests}
+  ${data.testInstructions}
   # Questions
   Github: [${data.github}](https://github.com/${data.github}) Email: ${data.email}.
   `

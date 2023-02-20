@@ -37,7 +37,7 @@ const questions = [{
     {
     type: 'input',
     message: 'What are the test instructions for your project?',
-    name: 'Test Instructions',
+    name: 'testInstructions',
         validate: (value)=>{ if(value){return true} else {return 'Please enter a value to continue'}},   
     },
     {
