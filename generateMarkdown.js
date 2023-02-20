@@ -27,7 +27,7 @@ function generateMarkdown(data) {
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   # Contribution
   ${data.contribution}
-  #Test Instructions
+  # Test Instructions
   ${data.tests}
   # Questions
   Github: [${data.github}](https://github.com/${data.github}) Email: ${data.email}.
